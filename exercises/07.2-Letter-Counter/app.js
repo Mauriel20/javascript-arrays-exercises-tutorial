@@ -2,5 +2,15 @@ let par = "Lorem ipsum dolor sit amet consectetur adipiscing elit Curabitur eget
 let counts = {};
 
 // your code here
+for (let index = 0; index < array.length; index++) {
+   let letter = par[index].toLocaleLowerCase();
+    if(letter != '' ) {
+        if (counts[letter] == undefined){
+            counts[letter]=1;
+        } else{
+            counts[letter] =1;
+        }
 
-console.log(counts);
+    }
+    
+}
