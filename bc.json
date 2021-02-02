@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://b5acfd34-13b6-43fc-9ec4-01c051d50fa9.ws-us03.gitpod.io",
+    "address": "https://b27d5076-37c3-4278-af27-16f8364fdd5c.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -277,7 +277,7 @@
         {
             "slug": "11-Do-while",
             "title": "11-Do-while",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Do-while",
             "translations": [
                 "es",
@@ -288,7 +288,7 @@
         {
             "slug": "12-Delete-element",
             "title": "12-Delete-element",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Delete-element",
             "translations": [
                 "es",

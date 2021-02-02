@@ -1,8 +1,16 @@
-var people = ['juan','ana','michelle','daniella','stefany','lucy','barak'];
+var people = ['juan', 'ana', 'michelle', 'daniella', 'stefany', 'lucy', 'barak'];
 
-function deletePerson(personName)
-{
-	//your code here
+function deletePerson(personName) {
+    let newArr =[];
+    for (let index = 0; index < people.length; index++) {
+        if (personName!=people[index]) {
+            newArr.push(people[index]);
+        }
+
+
+        //your code here
+    }
+return newArr;
 }
 
 console.log(deletePerson('daniella'));
