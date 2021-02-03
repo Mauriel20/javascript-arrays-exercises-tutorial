@@ -475,7 +475,7 @@
         {
             "slug": "22-Matrix-Builder",
             "title": "22-Matrix-Builder",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Matrix-Builder",
             "translations": [
                 "es",
@@ -486,7 +486,7 @@
         {
             "slug": "23-Parking-Lot",
             "title": "23-Parking-Lot",
-            "done": false,
+            "done": true,
             "path": "exercises/23-Parking-Lot",
             "translations": [
                 "es",
