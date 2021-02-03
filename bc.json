@@ -354,7 +354,7 @@
         {
             "slug": "18-Nested-arrays",
             "title": "18-Nested-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Nested-arrays",
             "translations": [
                 "es",
@@ -365,7 +365,7 @@
         {
             "slug": "19-And-One-and-a-Two-and-a-Three",
             "title": "19-And-One-and-a-Two-and-a-Three",
-            "done": false,
+            "done": true,
             "path": "exercises/19-And-One-and-a-Two-and-a-Three",
             "translations": [
                 "es",
@@ -387,7 +387,7 @@
         {
             "slug": "20.2-More-mapping",
             "title": "20.2-More-mapping",
-            "done": false,
+            "done": true,
             "path": "exercises/20.2-More-mapping",
             "translations": [
                 "es",
@@ -398,7 +398,7 @@
         {
             "slug": "20.3-Map-with-function-inside-variable",
             "title": "20.3-Map-with-function-inside-variable",
-            "done": false,
+            "done": true,
             "path": "exercises/20.3-Map-with-function-inside-variable",
             "translations": [
                 "es",
@@ -409,7 +409,7 @@
         {
             "slug": "20.4-Map-data-types",
             "title": "20.4-Map-data-types",
-            "done": false,
+            "done": true,
             "path": "exercises/20.4-Map-data-types",
             "translations": [
                 "es",
@@ -431,7 +431,7 @@
         {
             "slug": "20.6-Yes-and-no",
             "title": "20.6-Yes-and-no",
-            "done": false,
+            "done": true,
             "path": "exercises/20.6-Yes-and-no",
             "translations": [
                 "es",
@@ -442,7 +442,7 @@
         {
             "slug": "21-Filter-an-array",
             "title": "21-Filter-an-array",
-            "done": false,
+            "done": true,
             "path": "exercises/21-Filter-an-array",
             "translations": [
                 "es",
