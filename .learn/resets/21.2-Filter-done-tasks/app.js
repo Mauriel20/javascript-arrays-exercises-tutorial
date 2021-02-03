@@ -8,9 +8,5 @@ let tasks = [
 	{ label: 'Read a book', done: true },
 	{ label: 'Make a trip', done: false }
 ];
-const taskDone = tasks.filter(value =>{
-    return value.done == true;
-})
 
-console.log(taskDone);
 //your code here
